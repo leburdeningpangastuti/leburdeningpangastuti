@@ -70,15 +70,14 @@ Aufa Akmal Bunaya
       src="https://github-profile-trophy.vercel.app/?username=namikulaufa&bg_color=0d1117&text_color=ffffff" alt="arzxh" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<summary>&#127942 <b>GitHub Activity</b></summary><br/> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">
+
+![Metrics](https://metrics.lecoq.io/namikulaufa?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
       
 ------
 
-### GitHub Activity <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">
-![Metrics](https://metrics.lecoq.io/namikulaufa template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
-      
-------
-
-### Donate: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="35px">
+### Donate <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="35px">
 <p align="center"><img src="https://svgur.com/i/Vtt.svg"></p>
 <p align="center">
     <a href="https://paypal.me/mhmdrfl" target="blank"><img align="center"
