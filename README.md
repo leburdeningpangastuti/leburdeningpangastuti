@@ -78,13 +78,8 @@ Aufa Akmal Bunaya
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <p align="right">
-<a href="https://www.facebook.com/fa.yufa.5" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="load" height="30" width="40" /></a>
-
-<p align="right">
 <h3>Donate:</h3>
 <a href="https://paypal.me/mhmdrfl" target="blank"><img align="center"
       src="https://camo.githubusercontent.com/8e89d20419f7babe62aff7e14fca01635ff807cacc549e2a94baabadc4d77349/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737570706f72742d50617950616c2d626c75653f6c6f676f3d50617950616c267374796c653d666c61742d737175617265266c6162656c3d446f6e617465"
-      alt="PayPal Donation" height="30" width="40" /></a>
+      alt="PayPal Donation" /></a>
   </p>
