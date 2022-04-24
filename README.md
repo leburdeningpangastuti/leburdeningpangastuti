@@ -5,6 +5,7 @@ Aufa Akmal Bunaya
 
 ------
 ### Hello, Welcome! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<a href="https://twitter.com/Yufa_Bunaya" target="blank"><img src="https://img.shields.io/twitter/follow/Yufa_Bunaya?logo=twitter&style=for-the-badge" alt="namikulaufa" /></a>
 
 ------
 
@@ -22,7 +23,7 @@ Aufa Akmal Bunaya
 
 ------
 
-### Connect with me:
+### Connect with me 💬
 <p align="center">
   <a href="https://www.facebook.com/fa.yufa.5" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -30,8 +31,7 @@ Aufa Akmal Bunaya
   <a href="https://instagram.com/namikulaufa" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="load" height="30" width="40" /></a> 
-  <a href="https://twitter.com/Yufa_Bunaya" target="blank"><img src="https://img.shields.io/twitter/follow/Yufa_Bunaya?logo=twitter&style=for-the-badge" alt="namikulaufa" /></a>
- <a href="https://www.linkedin.com/in/aufa-akmal-bunaya-4767b6161/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/aufa-akmal-bunaya-4767b6161/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Aufa Akmal Bunaya" height="30" width="40" /></a> 
   <a href="https://wa.me/6285217835752" target="blank"><img align="center"
@@ -41,7 +41,7 @@ Aufa Akmal Bunaya
 
 ------
 
-### Languages:
+### Languages 🚀
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
@@ -55,7 +55,7 @@ Aufa Akmal Bunaya
 
 ------
 
-### Stats:
+### Stats ⚡
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=namikulaufa&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="arzxh" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namikulaufa&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
@@ -66,7 +66,7 @@ Aufa Akmal Bunaya
 
 ------
 
-### Trophies :
+### Trophies 🏆
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=namikulaufa&bg_color=0d1117&text_color=ffffff" alt="arzxh" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
