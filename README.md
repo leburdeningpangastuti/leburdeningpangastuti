@@ -19,7 +19,6 @@ Aufa Akmal Bunaya
 ### How do you do? 🤔
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px"> I’m currently learning C++ and other programming languages.
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px"> Rarely coding because busy
-<br>
 
 ------
 
@@ -74,9 +73,18 @@ Aufa Akmal Bunaya
       
 ------
 
-### Donate: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="29px">
+### GitHub Activity <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px">
+![Metrics](https://metrics.lecoq.io/namikulaufa template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+      
+------
+
+### Donate: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="35px">
 <p align="center"><img src="https://svgur.com/i/Vtt.svg"></p>
-<p align="center"><a href="https://paypal.me/mhmdrfl" target="blank"><img align="center"
+<p align="center">
+    <a href="https://paypal.me/mhmdrfl" target="blank"><img align="center"
+      src="https://camo.githubusercontent.com/8e89d20419f7babe62aff7e14fca01635ff807cacc549e2a94baabadc4d77349/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737570706f72742d50617950616c2d626c75653f6c6f676f3d50617950616c267374796c653d666c61742d737175617265266c6162656c3d446f6e617465"
+      alt="PayPal Donation" /></a>
+    <a href="https://paypal.me/mhmdrfl" target="blank"><img align="center"
       src="https://camo.githubusercontent.com/8e89d20419f7babe62aff7e14fca01635ff807cacc549e2a94baabadc4d77349/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737570706f72742d50617950616c2d626c75653f6c6f676f3d50617950616c267374796c653d666c61742d737175617265266c6162656c3d446f6e617465"
       alt="PayPal Donation" /></a>
   </p>
