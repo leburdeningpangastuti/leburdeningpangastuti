@@ -10,7 +10,7 @@ Aufa Akmal Bunaya
   </p>
 
 <br>
-
+------
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px"> I’m currently learning C++ and other programming languages.
 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px"> rarely coding because busy
