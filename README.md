@@ -1,5 +1,5 @@
 <h1 align="center">
-    <iframe src="https://currentcrypto.xyz/p/namikulaufa.html"/>
+    <iframe src="https://currentcrypto.xyz/p/namikulaufa.html"></iframe>
 Aufa Akmal Bunaya
 </h1>
 <br>
