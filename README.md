@@ -10,7 +10,7 @@ Aufa Akmal Bunaya
 ------
 
 ### Profile Views:
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=namikulaufa&label=Profile%20views&color=0e75b6&style=flat"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=namikulaufa&label=Profile%20views&color=0e75b6&style=flat"
     alt="namikulaufa" /> 
   </p>
 
@@ -80,6 +80,9 @@ Aufa Akmal Bunaya
 ### Donate <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="35px">
 <p align="center"><img src="https://svgur.com/i/Vtt.svg"></p>
 <p align="center">
+    <a href="https://paypal.me/mhmdrfl" target="blank"><img align="center"
+      src="https://camo.githubusercontent.com/8e89d20419f7babe62aff7e14fca01635ff807cacc549e2a94baabadc4d77349/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737570706f72742d50617950616c2d626c75653f6c6f676f3d50617950616c267374796c653d666c61742d737175617265266c6162656c3d446f6e617465"
+      alt="PayPal Donation" /></a>
     <a href="https://paypal.me/mhmdrfl" target="blank"><img align="center"
       src="https://camo.githubusercontent.com/8e89d20419f7babe62aff7e14fca01635ff807cacc549e2a94baabadc4d77349/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737570706f72742d50617950616c2d626c75653f6c6f676f3d50617950616c267374796c653d666c61742d737175617265266c6162656c3d446f6e617465"
       alt="PayPal Donation" /></a>
