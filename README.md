@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./img.svg" alt="Cant Load Image"/>
+    <img src="./namikulaufa.gif" alt="Cant Load Image"/>
 Aufa Akmal Bunaya
 </h1>
 <br>
