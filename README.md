@@ -1,5 +1,5 @@
 <h1 align="center">
-    <iframe src="./namikulaufa.html"> alt="Cant Load Image"</iframe>
+    <iframe src="./namikulaufa.html"></iframe>
 Aufa Akmal Bunaya
 </h1>
 <br>
