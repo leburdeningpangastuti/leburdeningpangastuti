@@ -78,7 +78,8 @@ Aufa Akmal Bunaya
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <p align="right">
-<h3>Donate:</h3>
+<h3>Donate:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="29px"></h3>
+<p align="center"><img src="https://svgur.com/i/Vtt.svg" height="60" width="70"></p>
 <a href="https://paypal.me/mhmdrfl" target="blank"><img align="center"
       src="https://camo.githubusercontent.com/8e89d20419f7babe62aff7e14fca01635ff807cacc549e2a94baabadc4d77349/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737570706f72742d50617950616c2d626c75653f6c6f676f3d50617950616c267374796c653d666c61742d737175617265266c6162656c3d446f6e617465"
       alt="PayPal Donation" /></a>
